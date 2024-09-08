@@ -16,7 +16,6 @@
         <tr>
             <th colspan=7> inzva Deep Learning Study Group</th>
         </tr>
-        
         <tr>
             <td style="text-align: center;"rowspan=2> <b>w1</b> </td>
             <td style="text-align: center;"rowspan=2>Introduction to inzva DLSG</td>
@@ -25,9 +24,7 @@
             <td style="text-align: center;"rowspan=2><a href="">link</a></td>
             <td style="text-align: center;"rowspan=2><a href="">link</a></td>
             <td> </td>
-
         </tr>
-        
         <tr>
             <td>Introduction to Neural Networks</td>
 			  <td>
@@ -70,11 +67,9 @@
             <a href="https://www.youtube.com/watch?v=IaSGqQa5O-M">[3b1b-6]</a> 
             <a href="https://www.youtube.com/watch?v=pj9-rr1wDhM">[F]</a> 
             <a href="https://www.youtube.com/watch?v=jDe5BAsT2-Y">[4]</a></td>
-            
         </tr>
         <tr>
             <td style="text-align: center;"> <b>w5</b> </td>
-
             <td><a href="">link</a></td>
             <td><a href="">link</a></td>
             <td><a href="">[1]</a> <a href="">[2]</a></td>
@@ -89,7 +84,6 @@
         </tr>
         <tr>
             <td style="text-align: center;"> <b>w7</b> </td>
-
             <td><a href="">link</a></td>
             <td><a href="">link</a></td>
             <td><a href="">[1]</a> <a href="">[2]</a></td>
@@ -116,7 +110,6 @@
         </tr>
         <tr>
             <td style="text-align: center;"> <b>w9</b> </td>
-
             <td><a href="">link</a></td>
             <td><a href="">link</a></td>
             <td>
