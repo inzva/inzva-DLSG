@@ -1,11 +1,5 @@
 # inzvaDSLG
 
-A non-profit project of BEV Foundation, inzva was established in 2017 in Beykoz Kundura to create a community of talented computer science enthusiasts. Over the last 6 years, inzva has provided over 5000 students with the opportunity to improve themselves through study groups, projects, and camps that focus on studies of algorithms and artificial intelligence studies completely free of charge. 
-
-This repository by the inzva Deep Learning Study Group (DLSG) serves as an essential guide for anyone looking to get started in the deep learning field. It not only offers a comprehensive introduction but also forms the backbone of our most fundamental study group, making it a critical resource for both beginners and those looking to deepen their knowledge. We extend our heartfelt thanks to all the contributors and volunteers of our community who have dedicated their time and effort to create and compile these invaluable resources. Their hard work has made this project possible, ensuring that the materials are accessible and beneficial to a wide range of learners. Every decision, from the content selection to the structure, has been made with great care and consideration.
-
-As we continue to grow and evolve, we remain committed to curating high-quality resources that reflect the latest advancements in the field of deep learning. This repository is not just a static collection of information but a living document that will be regularly updated to stay in line with the fast-paced developments in artificial intelligence. We hope this guide will serve as a cornerstone for anyone who is passionate about deep learning, inspiring further exploration.
-
 <table>
     <thead>
         <tr>
@@ -46,18 +40,18 @@ As we continue to grow and evolve, we remain committed to curating high-quality 
             <td style="text-align: center;"rowspan=2>Improving Deep Neural Networks:
  Hyperparameter tuning, Regularization and Optimization</td>
             <td>Hyperparameter Tuning and Regularization Methods</td>
+            <td><a href="https://drive.google.com/file/d/1dtsZPtXomEv7qxDcMP2NBQrLGiV7JNLM/view?usp=sharing">link</a></td>
             <td><a href="">link</a></td>
             <td><a href="">link</a></td>
-            <td><a href="">link</a></td>
-            <td><a href="">[1]</a> <a href="">[2]</a></td>
+            <td><a href=""></a> <a href=""></a></td>
         </tr>
         <tr>
             <td style="text-align: center;"> <b>w3</b> </td>
             <td>Optimization Algorithms</td>
+            <td><a href="https://drive.google.com/file/d/1q9ub7NMhkxM8ugopzBLpAAesyb2uy3uI/view?usp=sharing">link</a></td>
             <td><a href="">link</a></td>
             <td><a href="">link</a></td>
-            <td><a href="">link</a></td>
-            <td><a href="">[1]</a> <a href="">[2]</a></td>
+            <td><a href="https://www.youtube.com/watch?v=NE88eqLngkg">[1]</a> <a href=""></a></td>
         </tr>
         <tr>
             <th colspan=7> Homework-1</th>
