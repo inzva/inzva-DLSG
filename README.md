@@ -2,7 +2,7 @@
 
 This repository by the inzva Deep Learning Study Group (DLSG) serves as an essential guide for anyone looking to get started in the deep learning field. It not only offers a comprehensive introduction but also forms the backbone of our most fundamental study group, making it a critical resource for both beginners and those looking to deepen their knowledge. We extend our heartfelt thanks to all the contributors and volunteers of our community who have dedicated their time and effort to create and compile these invaluable resources. Their hard work has made this project possible, ensuring that the materials are accessible and beneficial to a wide range of learners. Every decision, from the content selection to the structure, has been made with great care and consideration.
 
- As we continue to grow and evolve, we remain committed to curating high-quality resources that reflect the latest advancements in the field of deep learning. This repository is not just a static collection of information but a living document that will be regularly updated to stay in line with the fast-paced developments in artificial intelligence. We hope this guide will serve as a cornerstone for anyone who is passionate about deep learning, inspiring further exploration.
+As we continue to grow and evolve, we remain committed to curating high-quality resources that reflect the latest advancements in the field of deep learning. This repository is not just a static collection of information but a living document that will be regularly updated to stay in line with the fast-paced developments in artificial intelligence. We hope this guide will serve as a cornerstone for anyone who is passionate about deep learning, inspiring further exploration.
 
 <table>
     <thead>
@@ -25,8 +25,8 @@ This repository by the inzva Deep Learning Study Group (DLSG) serves as an essen
             <td style="text-align: center;"rowspan=2>Introduction to inzva DLSG</td>
             <td>Introduction to the Course</td>
             <td style="text-align: center;"rowspan=2><a href="https://drive.google.com/file/d/1Ce9VyWxFiW0EBYicveAVOJp25jyPg_W8/view?usp=drive_link">link</a></td>
-            <td style="text-align: center;"rowspan=2><a href="https://drive.google.com/file/d/1dtsZPtXomEv7qxDcMP2NBQrLGiV7JNLM/view?usp=sharing">link</a></td>
-            <td style="text-align: center;"rowspan=2><a href="https://drive.google.com/file/d/1q9ub7NMhkxM8ugopzBLpAAesyb2uy3uI/view?usp=sharing">link</a></td>
+            <td style="text-align: center;"rowspan=2><a href="https://drive.google.com/file/d/1LhQq9k6Ik8AiE6foAO6r-SjvpFacDtIt/view?usp=sharing">link</a></td>
+            <td style="text-align: center;"rowspan=2><a href="https://drive.google.com/file/d/1sGPepXg0tkQC1bi5IzWhwOyjjGr9MCfx/view?usp=sharing">pytorchintro</a> <a href="https://drive.google.com/file/d/1BbhAnr0pD3_h-NVcNf_mx5hi-69jdEtC/view?usp=sharing">train_fcn</a> <a href="https://drive.google.com/file/d/1gIRoHE5ZHqd0UElQYmHokbkJorKfF4UO/view?usp=sharing">test_fcn</a></td>
             <td> </td>
         </tr>
         <tr>
@@ -45,16 +45,16 @@ This repository by the inzva Deep Learning Study Group (DLSG) serves as an essen
  Hyperparameter tuning, Regularization and Optimization</td>
             <td>Hyperparameter Tuning and Regularization Methods</td>
             <td><a href="https://drive.google.com/file/d/1dtsZPtXomEv7qxDcMP2NBQrLGiV7JNLM/view?usp=sharing">link</a></td>
-            <td><a href="">link</a></td>
-            <td><a href="">link</a></td>
-            <td><a href=""></a> <a href=""></a></td>
+            <td><a href="https://drive.google.com/file/d/1jVCtRNULfGDzOqizoNMr9Pr-rjPQ3FVt/view?usp=sharing">link</a></td>
+            <td><a href="https://drive.google.com/file/d/1jtKAdJtjT4bium2gISp5NiiXwtj1fzA4/view?usp=sharing">exercise</a> <a href="https://drive.google.com/file/d/1_wAY84_yrIyvlMDqhpm1xsYmuzmzj5rC/view?usp=sharing">soln</a> </td>
+            <td><a href=""></a><a href=""></a></td>
         </tr>
         <tr>
             <td style="text-align: center;"> <b>w3</b> </td>
             <td>Optimization Algorithms</td>
             <td><a href="https://drive.google.com/file/d/1q9ub7NMhkxM8ugopzBLpAAesyb2uy3uI/view?usp=sharing">link</a></td>
             <td><a href="">link</a></td>
-            <td><a href="">link</a></td>
+            <td><a href="https://drive.google.com/file/d/1cF-1bWmH7hfPxLWOSEzUx2I9jf6v__3C/view?usp=sharing">example</a></td>
             <td><a href="https://www.youtube.com/watch?v=NE88eqLngkg">[1]</a> <a href=""></a></td>
         </tr>
         <tr>
