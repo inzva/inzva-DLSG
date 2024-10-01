@@ -53,7 +53,7 @@ As we continue to grow and evolve, we remain committed to curating high-quality 
             <td style="text-align: center;"> <b>w3</b> </td>
             <td>Optimization Algorithms</td>
             <td><a href="https://drive.google.com/file/d/1q9ub7NMhkxM8ugopzBLpAAesyb2uy3uI/view?usp=sharing">link</a></td>
-            <td><a href="">link</a></td>
+            <td><a href="https://drive.google.com/file/d/1-wVi_odVzSnaWIUD4gLo7z5OzzAdK1gg/view?usp=sharing">link</a></td>
             <td><a href="https://drive.google.com/file/d/1cF-1bWmH7hfPxLWOSEzUx2I9jf6v__3C/view?usp=sharing">example</a></td>
             <td><a href="https://www.youtube.com/watch?v=NE88eqLngkg">[1]</a> <a href=""></a></td>
         </tr>
