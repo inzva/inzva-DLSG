@@ -74,8 +74,8 @@ As we continue to grow and evolve, we remain committed to curating high-quality 
         </tr>
         <tr>
             <td style="text-align: center;"> <b>w5</b> </td>
-            <td><a href="">link</a></td>
-            <td><a href="">link</a></td>
+            <td><a href="https://github.com/denizberkin/study_group_week5/tree/final">link</a></td>
+            <td><a href="https://github.com/denizberkin/study_group_week5/tree/final">link</a></td>
             <td><a href="">[1]</a> <a href="">[2]</a></td>
         </tr>
         <tr>
