@@ -65,8 +65,8 @@ As we continue to grow and evolve, we remain committed to curating high-quality 
             <td style="text-align: center;"rowspan=6>Neural Network Architectures and Common Tasks in Deep Learning</td>
             <td rowspan=2>Convolutional Neural Networks with Common Tasks: Image Classification, Object Detection, Image Segmentation</td>
             <td rowspan=2><a href="https://drive.google.com/file/d/15G76dE5UhGSYNAtZSQpbCcNtkeH0vPuZ/view?usp=sharing">link</a></td>
-            <td><a href="">link</a></td>
-            <td><a href="">link</a></td>
+            <td><a href="https://drive.google.com/file/d/1pG3aLVz8t0VKjppymQ8iA6b-Qo3YsCUX/view?usp=sharing">link</a></td>
+            <td><a href="https://drive.google.com/file/d/1dApDs65P0ORibXJtgsocG5VGZI9B2DP3/view?usp=sharing">link</a></td>
             <td><a href="https://www.youtube.com/watch?v=KuXjwB4LzSA&t=566s">[3b1b-5]</a> 
             <a href="https://www.youtube.com/watch?v=IaSGqQa5O-M">[3b1b-6]</a> 
             <a href="https://www.youtube.com/watch?v=pj9-rr1wDhM">[F]</a> 
