@@ -76,21 +76,21 @@ As we continue to grow and evolve, we remain committed to curating high-quality 
             <td style="text-align: center;"> <b>w5</b> </td>
             <td><a href="https://github.com/denizberkin/study_group_week5/tree/final">link</a></td>
             <td><a href="https://github.com/denizberkin/study_group_week5/tree/final">link</a></td>
-            <td><a href="">[1]</a> <a href="">[2]</a></td>
+            <td><a href=""></a> <a href=""></a></td>
         </tr>
         <tr>
             <td style="text-align: center;"> <b>w6</b> </td>
-            <td rowspan=2>Recurrent Neural Networks with Common Tasks: Natural Language Processing, Forecasting for Time Series</td>
+            <td rowspan=2>Recurrent Neural Networks with Common Tasks: Natural Language Processing</td>
             <td rowspan=2 ><a href="https://drive.google.com/file/d/1Yckxlqqo1EF1PlyhwKuvHq4l9byg2etK/view?usp=sharing">link</a></td>
-            <td><a href="">link</a></td>
-            <td><a href="">link</a></td>
-            <td><a href="">[1]</a> <a href="">[2]</a></td>
+            <td><a href="https://drive.google.com/file/d/1AkDNkLoOWIgh0Qyoxmve1Qh4UjsBBWUd/view?usp=sharing">link</a></td>
+            <td><a href=""></a></td>
+            <td><a href=""></a> <a href=""></a></td>
         </tr>
         <tr>
             <td style="text-align: center;"> <b>w7</b> </td>
-            <td><a href="">link</a></td>
-            <td><a href="">link</a></td>
-            <td><a href="">[1]</a> <a href="">[2]</a></td>
+            <td><a href=""></a></td>
+            <td><a href="https://drive.google.com/drive/folders/1fkLk5DUHXqgURQ-ekojGygr3gKrKCEkp?usp=sharing">link</a></td>
+            <td><a href=""></a> <a href=""></a></td>
         </tr>
         <tr>
             <td style="text-align: center;"> <b>w8</b> </td>
@@ -130,7 +130,7 @@ As we continue to grow and evolve, we remain committed to curating high-quality 
  			  <td><a href="">link</a></td>
  			  <td><a href="">link</a></td>
             <td><a href="">link</a></td>
-            <td><a href="">[1]</a> <a href="">[2]</a></td>
+            <td><a href=""></a> <a href=""></a></td>
         </tr>
         <tr>
             <td style="text-align: center;"> <b>w11</b> </td>
@@ -138,7 +138,7 @@ As we continue to grow and evolve, we remain committed to curating high-quality 
             <td><a href=""></a></td>
  			  <td><a href="">link</a></td>
             <td><a href="">link</a></td>
-            <td><a href="">[1]</a> <a href="">[2]</a></td>
+            <td><a href=""></a> <a href=""></a></td>
         </tr>
         <tr>
             <th colspan=7> Graduation Homework </th>
