@@ -96,8 +96,8 @@ As we continue to grow and evolve, we remain committed to curating high-quality 
             <td style="text-align: center;"> <b>w8</b> </td>
             <td rowspan=2 >Transformers with Common Tasks: Machine Translation, Image Classification</td>
             <td rowspan=2 ><a href="https://drive.google.com/file/d/1bViI6MQ5wTijwaUp5N5Ahm0KrDjkcP8k/view?usp=sharing">link</a></td>
-            <td><a href="">link</a></td>
-            <td><a href="">link</a></td>
+            <td><a href="https://drive.google.com/file/d/1ykSjVS7gkNO7qFbc-Mndhp-AovtLlYUf/view?usp=sharing">link</a></td>
+            <td><a href=""></a></td>
             <td>
             <a href="https://jalammar.github.io/illustrated-transformer/">[IT]</a>
             <br>
