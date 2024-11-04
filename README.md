@@ -127,10 +127,10 @@ As we continue to grow and evolve, we remain committed to curating high-quality 
             <td style="text-align: center;"> <b>w10</b> </td>
  			  <td rowspan=3> Trend Topics in Deep Learning</td>
  			  <td rowspan=1> Generative Models (VAEs, Diffusion Models)</td>
- 			  <td><a href="">link</a></td>
+ 			  <td><a href="https://drive.google.com/file/d/1Zx5V8vT2NosDXmhPYQ0l47Eh_5--mZTz/view?usp=sharing">link</a></td>
  			  <td><a href="">link</a></td>
             <td><a href="">link</a></td>
-            <td><a href=""></a> <a href=""></a></td>
+            <td><a href="https://www.youtube.com/watch?v=HoKDTa5jHvg">[1]</a> <a href=""></a></td>
         </tr>
         <tr>
             <td style="text-align: center;"> <b>w11</b> </td>
