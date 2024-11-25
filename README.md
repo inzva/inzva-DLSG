@@ -135,8 +135,8 @@ As we continue to grow and evolve, we remain committed to curating high-quality 
         <tr>
             <td style="text-align: center;"> <b>w11</b> </td>
             <td rowspan=1> Introduction to Large Language Models (LLMs) </td>
-            <td><a href=""></a></td>
- 			  <td><a href="https://drive.google.com/file/d/1t8A_hXAPg4li8sZ1TWjol5Bmlu-R38h2/view?usp=sharing">link</a></td>
+            <td><a href="https://drive.google.com/file/d/1t8A_hXAPg4li8sZ1TWjol5Bmlu-R38h2/view?usp=sharing">link</a></td>
+ 			  <td><a href=""></a></td>
             <td><a href="">link</a></td>
             <td><a href=""></a> <a href=""></a></td>
         </tr>
