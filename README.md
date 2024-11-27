@@ -137,7 +137,9 @@ As we continue to grow and evolve, we remain committed to curating high-quality 
             <td rowspan=1> Introduction to Large Language Models (LLMs) </td>
             <td><a href="https://drive.google.com/file/d/1t8A_hXAPg4li8sZ1TWjol5Bmlu-R38h2/view?usp=sharing">link</a></td>
  			  <td><a href=""></a></td>
-            <td><a href="">link</a></td>
+            <td><a href="https://colab.research.google.com/drive/1hUuTE-EQoogIvAy_7CQNLI4l9ot9dKu8?usp=sharing">n1</a>
+            <a href="https://colab.research.google.com/drive/1lZNpXo6EPCkcJzYm6YxoN3DA2eUmRT6k?usp=sharing">n2</a>
+            <a href="https://colab.research.google.com/drive/1WrmNCCQtK_nhObHOJ7PiaRspDzVJi6Ie?usp=sharing">n3</a></td>
             <td><a href=""></a> <a href=""></a></td>
         </tr>
         <tr>
