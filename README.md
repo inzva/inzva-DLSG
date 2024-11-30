@@ -151,7 +151,7 @@ This repository is not just a static collection of information but a living docu
     </tbody>
 </table>
 
-#Acknowledgements
+# Acknowledgements
 Our beloved contributors:
 
 <ul>
