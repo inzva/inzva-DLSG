@@ -118,7 +118,7 @@ This repository is not just a static collection of information but a living docu
         <tr>
             <td style="text-align: center;"> <b>w9</b> </td>
             <td><a href=""></a></td> <!-- w9 slide -->
-            <td><a href=""></a></td> <!-- w9 notebook -->
+            <td><a href="https://www.kaggle.com/code/berfinduman0/inzva-vit-example">vit</a> <a href="https://www.kaggle.com/code/berfinduman0/eng-tr-neural-translation-dive-into-transformers">nmt</a></td> <!-- w9 notebook -->
             <td>
             <a href="https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/">[NMT]</a> 
             </td>
