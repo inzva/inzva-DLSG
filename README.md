@@ -124,7 +124,6 @@ This repository is not just a static collection of information but a living docu
             <a href="https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/">[t1]</a> 
             </td>
         </tr>
-
         <tr>
             <td style="text-align: center;"> <b>w10</b> </td>
  			  <td rowspan=3> Trend Topics in Deep Learning</td>
