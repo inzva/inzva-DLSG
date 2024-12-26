@@ -7,6 +7,7 @@ This repository is not just a static collection of information but a living docu
 
 # Syllabus and Materials
 
+
 <table>
     <thead>
         <tr>
@@ -29,17 +30,17 @@ This repository is not just a static collection of information but a living docu
             <td>Introduction to the Course</td>
             <td style="text-align: center;"rowspan=2><a href="https://drive.google.com/file/d/1Ce9VyWxFiW0EBYicveAVOJp25jyPg_W8/view?usp=drive_link">intro_nns</a></td>
             <td style="text-align: center;"rowspan=2><a href="https://drive.google.com/file/d/1LhQq9k6Ik8AiE6foAO6r-SjvpFacDtIt/view?usp=sharing">w1_s</a></td>
-            <td style="text-align: center;"rowspan=2><a href="https://drive.google.com/file/d/1sGPepXg0tkQC1bi5IzWhwOyjjGr9MCfx/view?usp=sharing">pytorchintro</a> <a href="https://drive.google.com/file/d/1BbhAnr0pD3_h-NVcNf_mx5hi-69jdEtC/view?usp=sharing">train_fcn</a> <a href="https://drive.google.com/file/d/1gIRoHE5ZHqd0UElQYmHokbkJorKfF4UO/view?usp=sharing">test_fcn</a></td>
+            <td style="text-align: center;"rowspan=2><a href="https://drive.google.com/file/d/1sGPepXg0tkQC1bi5IzWhwOyjjGr9MCfx/view?usp=sharing">pytorchintro</a> <a href="https://drive.google.com/file/d/1BbhAnr0pD3_h-NVcNf_mx5hi-69jdEtC/view?usp=sharing">fcn_exp1.1</a> <a href="https://drive.google.com/file/d/1gIRoHE5ZHqd0UElQYmHokbkJorKfF4UO/view?usp=sharing">fcn_exp1.2</a></td>
             <td> </td>
         </tr>
         <tr>
             <td>Introduction to Neural Networks</td>
 			  <td>
-            <a href="https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi">[3b1b-1]</a> <br>
-            <a href="https://www.youtube.com/watch?v=IHZwWFHWa-w&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=2">[3b1b-2]</a>  <br>
-            <a href="https://www.youtube.com/watch?v=Ilg3gGewQ5U&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=3">[3b1b-3]</a>  <br>
-            <a href="https://www.youtube.com/watch?v=tIeHLnjs5U8&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=4">[3b1b-4]</a>  <br>
-            <a href="https://gaoxiangluo.github.io/2020/09/27/Visual-and-Rigorous-Proof-of-Universal-Approximation-Theorem-UAT/">[UAT]</a> 
+            <a href="https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi">[v1]</a> <br>
+            <a href="https://www.youtube.com/watch?v=IHZwWFHWa-w&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=2">[v2]</a>  <br>
+            <a href="https://www.youtube.com/watch?v=Ilg3gGewQ5U&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=3">[v3]</a>  <br>
+            <a href="https://www.youtube.com/watch?v=tIeHLnjs5U8&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=4">[v4]</a>  <br>
+            <a href="https://gaoxiangluo.github.io/2020/09/27/Visual-and-Rigorous-Proof-of-Universal-Approximation-Theorem-UAT/">[t1]</a> 
             </td>
         </tr>
         <tr>
@@ -49,7 +50,7 @@ This repository is not just a static collection of information but a living docu
             <td>Hyperparameter Tuning and Regularization Methods</td>
             <td><a href="https://drive.google.com/file/d/1dtsZPtXomEv7qxDcMP2NBQrLGiV7JNLM/view?usp=sharing">handbook</a></td>
             <td><a href="https://drive.google.com/file/d/1jVCtRNULfGDzOqizoNMr9Pr-rjPQ3FVt/view?usp=sharing">w2_s</a></td>
-            <td><a href="https://drive.google.com/file/d/1jtKAdJtjT4bium2gISp5NiiXwtj1fzA4/view?usp=sharing">exercise</a> <a href="https://drive.google.com/file/d/1_wAY84_yrIyvlMDqhpm1xsYmuzmzj5rC/view?usp=sharing">soln</a> </td>
+            <td><a href="https://drive.google.com/file/d/1jtKAdJtjT4bium2gISp5NiiXwtj1fzA4/view?usp=sharing">exc</a> <a href="https://drive.google.com/file/d/1_wAY84_yrIyvlMDqhpm1xsYmuzmzj5rC/view?usp=sharing">soln</a> </td>
             <td><a href=""></a><a href=""></a></td>
         </tr>
         <tr>
@@ -57,11 +58,8 @@ This repository is not just a static collection of information but a living docu
             <td>Optimization Algorithms</td>
             <td><a href="https://drive.google.com/file/d/1q9ub7NMhkxM8ugopzBLpAAesyb2uy3uI/view?usp=sharing">optimization_algos</a></td>
             <td><a href="https://drive.google.com/file/d/1-wVi_odVzSnaWIUD4gLo7z5OzzAdK1gg/view?usp=sharing">w3_s</a></td>
-            <td><a href="https://drive.google.com/file/d/1cF-1bWmH7hfPxLWOSEzUx2I9jf6v__3C/view?usp=sharing">example</a></td>
+            <td><a href="https://drive.google.com/file/d/1cF-1bWmH7hfPxLWOSEzUx2I9jf6v__3C/view?usp=sharing">visual_exp</a></td>
             <td><a href="https://www.youtube.com/watch?v=NE88eqLngkg">[1]</a> <a href=""></a></td>
-        </tr>
-        <tr>
-            <th colspan=7> Homework-1</th>
         </tr>
         <tr>
             <td style="text-align: center;"> <b>w4</b> </td>
@@ -69,16 +67,16 @@ This repository is not just a static collection of information but a living docu
             <td rowspan=2>Convolutional Neural Networks with Common Tasks: Image Classification, Object Detection, Image Segmentation</td>
             <td rowspan=2><a href="https://drive.google.com/file/d/15G76dE5UhGSYNAtZSQpbCcNtkeH0vPuZ/view?usp=sharing">conv_nns</a></td>
             <td><a href="https://drive.google.com/file/d/1pG3aLVz8t0VKjppymQ8iA6b-Qo3YsCUX/view?usp=sharing">w4_s</a></td>
-            <td><a href="https://drive.google.com/file/d/1dApDs65P0ORibXJtgsocG5VGZI9B2DP3/view?usp=sharing">materials</a></td>
-            <td><a href="https://www.youtube.com/watch?v=KuXjwB4LzSA&t=566s">[3b1b-5]</a> 
-            <a href="https://www.youtube.com/watch?v=IaSGqQa5O-M">[3b1b-6]</a> 
-            <a href="https://www.youtube.com/watch?v=pj9-rr1wDhM">[F]</a> 
-            <a href="https://www.youtube.com/watch?v=jDe5BAsT2-Y">[4]</a></td>
+            <td><a href="https://drive.google.com/file/d/1dApDs65P0ORibXJtgsocG5VGZI9B2DP3/view?usp=sharing">resnet_exp</a></td>
+            <td><a href="https://www.youtube.com/watch?v=KuXjwB4LzSA&t=566s">[v1]</a> 
+            <a href="https://www.youtube.com/watch?v=IaSGqQa5O-M">[v2]</a> 
+            <a href="https://www.youtube.com/watch?v=pj9-rr1wDhM">[v3]</a> 
+            <a href="https://www.youtube.com/watch?v=jDe5BAsT2-Y">[v4]</a></td>
         </tr>
         <tr>
             <td style="text-align: center;"> <b>w5</b> </td>
-            <td><a href="https://github.com/denizberkin/study_group_week5/tree/final"></a></td>
-            <td><a href="https://github.com/denizberkin/study_group_week5/tree/final">materials</a></td>
+            <td><a href="https://github.com/denizberkin/study_group_week5/tree/final">**</a></td>
+            <td><a href="https://github.com/denizberkin/study_group_week5/tree/final">seg_n_det_exp</a></td>
             <td><a href=""></a> <a href=""></a></td>
         </tr>
         <tr>
@@ -91,8 +89,11 @@ This repository is not just a static collection of information but a living docu
         </tr>
         <tr>
             <td style="text-align: center;"> <b>w7</b> </td>
-            <td><a href=""></a></td>
-            <td><a href="https://drive.google.com/drive/folders/1fkLk5DUHXqgURQ-ekojGygr3gKrKCEkp?usp=sharing">link</a></td>
+            <td><a href="">**</a></td>
+            <td><a href="https://drive.google.com/drive/folders/1E3uhfE89aDSL2hX8ZYZKP3cldadFpxn6?usp=sharing">charlm_exp</a>
+            <a href="https://drive.google.com/drive/folders/1vnlvxsTCM1UoWqWOu_w2YAmDf1FAbGbQ?usp=drive_link">embeddings_exp</a>
+ 			  <a href="https://drive.google.com/drive/folders/1V8qFUGZyJ6dv19zrBjQ9SMI682g-4jXu?usp=drive_link">emotion_exp</a>
+            </td>
             <td><a href=""></a> <a href=""></a></td>
         </tr>
         <tr>
@@ -102,54 +103,64 @@ This repository is not just a static collection of information but a living docu
             <td><a href="https://drive.google.com/file/d/1ykSjVS7gkNO7qFbc-Mndhp-AovtLlYUf/view?usp=sharing">w8_s</a></td>
             <td><a href=""></a></td>
             <td>
-            <a href="https://jalammar.github.io/illustrated-transformer/">[IT]</a>
+            <a href="https://jalammar.github.io/illustrated-transformer/">[t1]</a>
             <br>
-            <a href="https://www.youtube.com/watch?v=yGTUuEx3GkA&t=1s">[RASA-1]</a>
+            <a href="https://www.youtube.com/watch?v=yGTUuEx3GkA&t=1s">[v1]</a>
             <br>
-            <a href="https://www.youtube.com/watch?v=tIvKXrEDMhk">[RASA-2]</a>
+            <a href="https://www.youtube.com/watch?v=tIvKXrEDMhk">[v2]</a>
             <br>
-            <a href="https://www.youtube.com/watch?v=23XUv0T9L5c">[RASA-3]</a>
+            <a href="https://www.youtube.com/watch?v=23XUv0T9L5c">[v3]</a>
             <br>
-            <a href="https://www.youtube.com/watch?v=EXNBy8G43MM">[RASA-4]</a>
+            <a href="https://www.youtube.com/watch?v=EXNBy8G43MM">[v4]</a>
             <br>
-			  <a href="https://www.youtube.com/watch?v=eMlx5fFNoYc">[ATN-3b1b]</a>
+			  <a href="https://www.youtube.com/watch?v=eMlx5fFNoYc">[v5]</a>
             </td>
         </tr>
         <tr>
             <td style="text-align: center;"> <b>w9</b> </td>
-            <td><a href=""></a></td> <!-- w9 slide -->
-            <td><a href="https://www.kaggle.com/code/berfinduman0/inzva-vit-example">vit</a> <a href="https://www.kaggle.com/code/berfinduman0/eng-tr-neural-translation-dive-into-transformers">nmt</a></td> <!-- w9 notebook -->
+            <td><a href="">**</a></td> <!-- w9 slide -->
+            <td><a href="https://www.kaggle.com/code/berfinduman0/inzva-vit-example">vit_exp</a> <a href="https://www.kaggle.com/code/berfinduman0/eng-tr-neural-translation-dive-into-transformers">nmt_exp</a></td> <!-- w9 notebook -->
             <td>
-            <a href="https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/">[NMT]</a> 
+            <a href="https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/">[t1]</a> 
             </td>
         </tr>
-        <tr>
-            <th colspan=7> Homework-2</th>
-        </tr>
+
         <tr>
             <td style="text-align: center;"> <b>w10</b> </td>
  			  <td rowspan=3> Trend Topics in Deep Learning</td>
  			  <td rowspan=1> Generative Models (VAEs, Diffusion Models)</td>
  			  <td><a href="https://drive.google.com/file/d/1Zx5V8vT2NosDXmhPYQ0l47Eh_5--mZTz/view?usp=sharing">intro_genai</a></td>
  			  <td><a href="https://drive.google.com/file/d/1ntNE7156IF8xJbeyunUeYC1zodAVuYcb/view?usp=sharing">w10_s</a></td>
-            <td><a href="https://colab.research.google.com/drive/1FPYyzOxQsCtsehyjq63p6qF0x96wGWZR?usp=sharing">stable_diff</a></td>
-            <td><a href="https://www.youtube.com/watch?v=HoKDTa5jHvg">[1]</a> <a href=""></a></td>
+            <td><a href="https://colab.research.google.com/drive/1FPYyzOxQsCtsehyjq63p6qF0x96wGWZR?usp=sharing">sdiffusion_exp</a></td>
+            <td><a href="https://www.youtube.com/watch?v=HoKDTa5jHvg">[v1]</a> <a href=""></a></td>
         </tr>
         <tr>
             <td style="text-align: center;"> <b>w11</b> </td>
             <td rowspan=1> Introduction to Large Language Models (LLMs) </td>
             <td><a href="https://drive.google.com/file/d/1t8A_hXAPg4li8sZ1TWjol5Bmlu-R38h2/view?usp=sharing">intro_llms</a></td>
- 			  <td><a href=""></a></td>
-            <td><a href="https://colab.research.google.com/drive/1hUuTE-EQoogIvAy_7CQNLI4l9ot9dKu8?usp=sharing">n1</a>
-            <a href="https://colab.research.google.com/drive/1lZNpXo6EPCkcJzYm6YxoN3DA2eUmRT6k?usp=sharing">n2</a>
-            <a href="https://colab.research.google.com/drive/1WrmNCCQtK_nhObHOJ7PiaRspDzVJi6Ie?usp=sharing">n3</a></td>
+ 			  <td><a href="">**</a></td>
+            <td><a href="https://colab.research.google.com/drive/1hUuTE-EQoogIvAy_7CQNLI4l9ot9dKu8?usp=sharing">bert_exp</a>
+            <a href="https://colab.research.google.com/drive/1lZNpXo6EPCkcJzYm6YxoN3DA2eUmRT6k?usp=sharing">t5_exp</a>
+            <a href="https://colab.research.google.com/drive/1WrmNCCQtK_nhObHOJ7PiaRspDzVJi6Ie?usp=sharing">llama_exp</a></td>
             <td><a href=""></a> <a href=""></a></td>
-        </tr>
-        <tr>
-            <th colspan=7> Graduation Homework </th>
         </tr>
     </tbody>
 </table>
+
+**: In the lecture, instead of a presentation, we either used bundles or had a practical session.
+
+You can refer this abbreviations while checking the table:
+
+- **exp** → example
+- **exc** → exercise
+- **soln** → solution
+- **seg** → segmentation
+- **det** → detection
+- **n** → and
+- **s** → presentation
+- **vX** → Xth video (e.g., v1 stands for the first video related to the subject of the week)
+- **tX** → Xth text (e.g., t1 stands for the first text related to the subject of the week)
+
 
 # Acknowledgements
 Our beloved contributors:
@@ -173,4 +184,3 @@ Our beloved contributors:
 A huge thank you to everyone who spent their time and energy into making the inzva Deep Learning Study Group a reality! Whether you were creating notebooks, prepare presentations, or creating our bundles your efforts have made this journey so much more impactful for everyone involved. We're so grateful to have such an amazing, supportive community making all of this possible. Thank you for being part of this journey and helping it grow!
 
 inzva AI Team
-
