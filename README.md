@@ -165,18 +165,18 @@ You can refer this abbreviations while checking the table:
 Our beloved contributors:
 
 <ul>
-  <li>Berfin Duman</li>
-  <li>Bike Sönmez</li>
-  <li>Deniz Berkin Kahya</li>
-  <li>Emir Erman Faruk</li>
-  <li>Gürkan Soykan</li>
-  <li>İrem Gülçin Zırhlıoğlu</li>
+  <li><a href="http://www.linkedin.com/in/berfin-duman">Berfin Duman</a></li>
+  <li><a href="https://www.linkedin.com/in/bikesonmez/">Bike Sönmez</a></li>
+  <li><a href="https://www.linkedin.com/in/denizberkin/">Deniz Berkin Kahya</a></li>
+  <li><a href="http://www.linkedin.com/in/emirfarukerman">Emir Erman Faruk</a></li>
+  <li><a href="https://www.linkedin.com/in/gurkan-soykan/">Gürkan Soykan</a></li>
+  <li><a href="https://www.linkedin.com/in/iremz/">İrem Gülçin Zırhlıoğlu</a></li>
   <li>Melih Darcan</li>
-  <li>Sarper Yurtseven</li>
-  <li>Simge Şengül</li>
-  <li>Şafak Bilici</li>
-  <li>Şilan Fidan Vural</li>
-  <li>Tarık Can Özden</li>
+  <li><a href="https://www.linkedin.com/in/sarper-yurtseven/">Sarper Yurtseven</a></li>
+  <li><a href="https://www.linkedin.com/in/simge-%C5%9Feny%C3%BCz-593726122/">Simge Şengül</a></li>
+  <li><a href="https://www.linkedin.com/in/msafakbilici/">Şafak Bilici</a></li>
+  <li><a href="https://www.linkedin.com/in/fidan-vural-ce/">Şilan Fidan Vural</a></li>
+  <li><a href="https://www.linkedin.com/in/tarikcanozden">Tarık Can Özden</a></li>
 </ul>
 
 
