@@ -171,7 +171,7 @@ Our beloved contributors:
   <li><a href="http://www.linkedin.com/in/emirfarukerman">Emir Erman Faruk</a></li>
   <li><a href="https://www.linkedin.com/in/gurkan-soykan/">Gürkan Soykan</a></li>
   <li><a href="https://www.linkedin.com/in/iremz/">İrem Gülçin Zırhlıoğlu</a></li>
-  <li>Melih Darcan</li>
+  <li><a href="https://www.linkedin.com/in/melih-darcan/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Melih Darcan</a></li>
   <li><a href="https://www.linkedin.com/in/sarper-yurtseven/">Sarper Yurtseven</a></li>
   <li><a href="https://www.linkedin.com/in/simge-%C5%9Feny%C3%BCz-593726122/">Simge Şengül</a></li>
   <li><a href="https://www.linkedin.com/in/msafakbilici/">Şafak Bilici</a></li>
