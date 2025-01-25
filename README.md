@@ -160,6 +160,10 @@ You can refer this abbreviations while checking the table:
 - **vX** → Xth video (e.g., v1 stands for the first video related to the subject of the week)
 - **tX** → Xth text (e.g., t1 stands for the first text related to the subject of the week)
 
+# Further Readings 
+- <a href="https://arxiv.org/pdf/2404.17625"> Alice’s Adventures in a differentiable wonderland </a>
+- <a href="https://udlbook.github.io/udlbook/"> Understanding Deep Learning</a>
+- <a href="https://www.deeplearningbook.org"> Goodfellow's Deep Learning</a>
 
 # Acknowledgements
 Our beloved contributors:
