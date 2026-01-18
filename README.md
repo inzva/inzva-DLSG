@@ -41,7 +41,7 @@ This repository is not just a static collection of information but a living docu
     </tr>
     <tr>
       <td style="text-align: center;"><b>w2</b></td>
-      <td>Debugging &amp; Optimization Algorithms</td>
+      <td>Hyperparameter Tuning and Regularization</td>
       <!-- Bundle -->
       <td></td> 
       <!-- Slide -->
@@ -53,7 +53,7 @@ This repository is not just a static collection of information but a living docu
     </tr>
     <tr>
       <td style="text-align: center;"><b>w3</b></td>
-      <td>Deep Learning at Scale: Tools &amp; Ops</td>
+      <td>Debugging &amp; Optimization Algorithms</td>
       <!-- Bundle -->
       <td></td> 
       <!-- Slide -->
