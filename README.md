@@ -1,4 +1,4 @@
-# inzvaDSLG
+# inzvaDLSG
 
 # Introduction
 The inzva Deep Learning Study Group (DLSG) serves as an essential guide for anyone looking to get started in the deep learning field. It not only offers a comprehensive introduction but also forms the backbone of our most fundamental study group, making it a critical resource for both beginners and those looking to deepen their knowledge. We extend our heartfelt thanks to all the contributors and volunteers of our community who have dedicated their time and effort to create and compile these invaluable resources. Their hard work has made this project possible, ensuring that the materials are accessible and beneficial to a wide range of learners. Every decision, from the content selection to the structure, has been made with great care and consideration.
@@ -7,7 +7,141 @@ This repository is not just a static collection of information but a living docu
 
 # Syllabus and Materials
 
+## inzvaDLSG-V2.0 (2026)
+<table>
+  <thead>
+    <tr>
+      <th>Weeks</th>
+      <th>Course Name</th>
+      <th>Topic</th>
+      <th>Bundle</th>
+      <th>Slide</th>
+      <th>Notebooks</th>
+      <th>Recommended Links</th>
+    </tr>
+  </thead>
 
+  <tbody>
+    <tr>
+      <th colspan="7">inzva Deep Learning Study Group</th>
+    </tr>
+    <!-- Module 1 -->
+    <tr>
+      <td style="text-align: center;"><b>w1</b></td>
+      <td style="text-align: center;" rowspan="3">Introduction to Neural Networks and Deep Learning</td>
+      <td>Introduction to Neural Networks</td>
+      <!-- Bundle -->
+      <td></td> 
+      <!-- Slide -->
+      <td></td>
+      <!-- Notebooks -->
+      <td></td>
+      <!-- Recommended Links -->
+      <td></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;"><b>w2</b></td>
+      <td>Debugging &amp; Optimization Algorithms</td>
+      <!-- Bundle -->
+      <td></td> 
+      <!-- Slide -->
+      <td></td>
+      <!-- Notebooks -->
+      <td></td>
+      <!-- Recommended Links -->
+      <td></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;"><b>w3</b></td>
+      <td>Deep Learning at Scale: Tools &amp; Ops</td>
+      <!-- Bundle -->
+      <td></td> 
+      <!-- Slide -->
+      <td></td>
+      <!-- Notebooks -->
+      <td></td>
+      <!-- Recommended Links -->
+      <td></td>
+    </tr>
+    <!-- Module 2 -->
+    <tr>
+      <td style="text-align: center;"><b>w4</b></td>
+      <td style="text-align: center;" rowspan="5">Neural Network Architectures and Common Tasks in Deep Learning</td>
+      <td rowspan="2">CNN with Common Tasks: Image Classification, Object Detection, Image Segmentation</td>
+      <td rowspan="2"></td>
+      <td rowspan="2"></td>
+      <td rowspan="2"></td>
+      <td rowspan="2"></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;"><b>w5</b></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;"><b>w6</b></td>
+      <td rowspan="2">Transformers with Common Tasks: Neural Machine Translation, Image Classification</td>
+      <td rowspan="2"></td>
+      <td rowspan="2"></td>
+      <td rowspan="2"></td>
+      <td rowspan="2"></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;"><b>w7</b></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;"><b>w8</b></td>
+      <td>GNNs</td>
+      <!-- Bundle -->
+      <td></td> 
+      <!-- Slide -->
+      <td></td>
+      <!-- Notebooks -->
+      <td></td>
+      <!-- Recommended Links -->
+      <td></td>
+    </tr>
+    <!-- Module 3 -->
+    <tr>
+      <td style="text-align: center;"><b>w9</b></td>
+      <td style="text-align: center;" rowspan="3">Trend Topics in Deep Learning: Generative Models and LLM's</td>
+      <td>Generative Models</td>
+      <!-- Bundle -->
+      <td></td> 
+      <!-- Slide -->
+      <td></td>
+      <!-- Notebooks -->
+      <td></td>
+      <!-- Recommended Links -->
+      <td></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;"><b>w10</b></td>
+      <td>Introduction to Large Language Models (LLMs)</td>
+      <!-- Bundle -->
+      <td></td> 
+      <!-- Slide -->
+      <td></td>
+      <!-- Notebooks -->
+      <td></td>
+      <!-- Recommended Links -->
+      <td></td>
+    </tr>
+    <tr>
+      <td style="text-align: center;"><b>w11</b></td>
+      <td>Deep Learning at Scale: Tools &amp; Ops</td>
+      <!-- Bundle -->
+      <td></td> 
+      <!-- Slide -->
+      <td></td>
+      <!-- Notebooks -->
+      <td></td>
+      <!-- Recommended Links -->
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+
+## inzvaDLSG-V1.0 (2024)
 <table>
     <thead>
         <tr>
