@@ -47,7 +47,7 @@ This repository is not just a static collection of information but a living docu
             <a href="https://www.youtube.com/watch?v=IHZwWFHWa-w&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=2">[v2]</a>  <br>
             <a href="https://www.youtube.com/watch?v=Ilg3gGewQ5U&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=3">[v3]</a>  <br>
             <a href="https://www.youtube.com/watch?v=tIeHLnjs5U8&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=4">[v4]</a>  <br>
-            <a href="https://gaoxiangluo.github.io/2020/09/27/Visual-and-Rigorous-Proof-of-Universal-Approximation-Theorem-UAT/">[t1]</a>
+            <a href="https://youtu.be/VMj-3S1tku0?si=N2MahNAdg_ls9UG6">[v5]</a>
       </td>
     </tr>
     <tr>
