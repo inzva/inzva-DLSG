@@ -31,13 +31,24 @@ This repository is not just a static collection of information but a living docu
       <td style="text-align: center;" rowspan="3">Introduction to Neural Networks and Deep Learning</td>
       <td>Introduction to Neural Networks</td>
       <!-- Bundle -->
-      <td></td> 
+      <td style="text-align: center;"rowspan=1>
+            <a href="https://drive.google.com/file/d/1WzppVphcR4cjCQyQTbeFOmK9e4XFA5Yb/view?usp=sharing">w1.1</a>
+            <a href="https://drive.google.com/file/d/1wZjZhU3DbIBxNHNYlGGGroZj9RuOXZ2v/view?usp=sharing">w1.2</a>
+      </td>
       <!-- Slide -->
-      <td></td>
+      <td style="text-align: center;"rowspan=1>
+            <a href="https://docs.google.com/presentation/d/1vPBCN-6lDqZNMsg3YPXwbCNiKlYTtiz71VPABwSPxBE/edit?usp=sharing">w1</a>
+      </td>
       <!-- Notebooks -->
       <td></td>
       <!-- Recommended Links -->
-      <td></td>
+      <td style="text-align: center;"rowspan=1> 
+            <a href="https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi">[v1]</a> <br>
+            <a href="https://www.youtube.com/watch?v=IHZwWFHWa-w&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=2">[v2]</a>  <br>
+            <a href="https://www.youtube.com/watch?v=Ilg3gGewQ5U&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=3">[v3]</a>  <br>
+            <a href="https://www.youtube.com/watch?v=tIeHLnjs5U8&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=4">[v4]</a>  <br>
+            <a href="https://gaoxiangluo.github.io/2020/09/27/Visual-and-Rigorous-Proof-of-Universal-Approximation-Theorem-UAT/">[t1]</a>
+      </td>
     </tr>
     <tr>
       <td style="text-align: center;"><b>w2</b></td>
