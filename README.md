@@ -40,7 +40,12 @@ This repository is not just a static collection of information but a living docu
             <a href="https://docs.google.com/presentation/d/1vPBCN-6lDqZNMsg3YPXwbCNiKlYTtiz71VPABwSPxBE/edit?usp=sharing">w1</a>
       </td>
       <!-- Notebooks -->
-      <td></td>
+      <td>
+            <a href="https://colab.research.google.com/drive/1IGDlkz3lmQn-DI-y0nLyYPXq6YmWmHS9?usp=sharing">pytorch_intro</a> <br>
+            <a href="https://colab.research.google.com/drive/17b9uIC4Q5RyJtZcBuYIKxtc2JDgWQPQd?usp=sharing">fmnist_test</a>  <br>
+            <a href="https://colab.research.google.com/drive/1fWKGZGjFOvcS88-FOnNpmzXv0Y7Jg_qn?usp=sharing">fmnist_train</a>  <br>
+            <a href="https://colab.research.google.com/drive/11xcgrt3esQzQCZ9bREFxSQ0mScCKlHzm?usp=sharing">xor_linear_vs_mlp</a>  <br>
+      </td>
       <!-- Recommended Links -->
       <td style="text-align: center;"rowspan=1> 
             <a href="https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi">[v1]</a> <br>
