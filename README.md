@@ -63,7 +63,9 @@ This repository is not just a static collection of information but a living docu
       <!-- Slide -->
       <td></td>
       <!-- Notebooks -->
-      <td></td>
+      <td>
+      <a href="https://colab.research.google.com/drive/1dx1EVQbao4FXE5JZJTEkJK-lzsk_ve2V?usp=sharing">exc</a>
+      </td>
       <!-- Recommended Links -->
       <td></td>
     </tr>
