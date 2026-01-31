@@ -59,11 +59,13 @@ This repository is not just a static collection of information but a living docu
       <td style="text-align: center;"><b>w2</b></td>
       <td>Hyperparameter Tuning and Regularization</td>
       <!-- Bundle -->
-      <td></td> 
+      <td style="text-align: center;">
+      <a href="https://drive.google.com/file/d/1QrEp7dykE6nlHihB7uJew13wD_ok28pK/view?usp=sharing">w2<a>
+      </td> 
       <!-- Slide -->
       <td></td>
       <!-- Notebooks -->
-      <td>
+      <td style="text-align: center;">
       <a href="https://colab.research.google.com/drive/1dx1EVQbao4FXE5JZJTEkJK-lzsk_ve2V?usp=sharing">exc</a>
       </td>
       <!-- Recommended Links -->
