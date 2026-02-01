@@ -37,7 +37,7 @@ This repository is not just a static collection of information but a living docu
       </td>
       <!-- Slide -->
       <td style="text-align: center;"rowspan=1>
-            <a href="https://docs.google.com/presentation/d/1vPBCN-6lDqZNMsg3YPXwbCNiKlYTtiz71VPABwSPxBE/edit?usp=sharing">w1</a>
+            <a href="https://drive.google.com/file/d/1kYnpCQq2p-UPab6JIW4u3144GfaCmfAZ/view?usp=sharing">w1</a>
       </td>
       <!-- Notebooks -->
       <td>
@@ -63,7 +63,8 @@ This repository is not just a static collection of information but a living docu
       <a href="https://drive.google.com/file/d/1QrEp7dykE6nlHihB7uJew13wD_ok28pK/view?usp=sharing">w2<a>
       </td> 
       <!-- Slide -->
-      <td></td>
+      <td>
+      <a href="https://drive.google.com/file/d/1Z4oXTOY020Gx51tm9rAvNm4YpykfpO47/view?usp=sharing">w2<a></td>
       <!-- Notebooks -->
       <td style="text-align: center;">
       <a href="https://colab.research.google.com/drive/1dx1EVQbao4FXE5JZJTEkJK-lzsk_ve2V?usp=sharing">exc</a>
