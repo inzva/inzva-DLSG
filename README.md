@@ -85,9 +85,9 @@ This repository is not just a static collection of information but a living docu
       <td></td>
       <!-- Recommended Links -->
       <td style="text-align: center;"rowspan=1> 
-            <a href="http://karpathy.github.io/2019/04/25/recipe/">[v1]</a> <br>
-            <a href="http://josh-tobin.com/troubleshooting-deep-neural-networks">[v2]</a>  <br>
-            <a href="https://arxiv.org/abs/1609.04747">[v3]</a>  <br>
+            <a href="http://karpathy.github.io/2019/04/25/recipe/">[t1]</a> <br>
+            <a href="http://josh-tobin.com/troubleshooting-deep-neural-networks">[t2]</a>  <br>
+            <a href="https://arxiv.org/abs/1609.04747">[t3]</a>  <br>
       </td>
     </tr>
     <!-- Module 2 -->
