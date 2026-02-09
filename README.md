@@ -76,13 +76,19 @@ This repository is not just a static collection of information but a living docu
       <td style="text-align: center;"><b>w3</b></td>
       <td>Debugging &amp; Optimization Algorithms</td>
       <!-- Bundle -->
-      <td></td> 
+      <td style="text-align: center;">
+      <a href="https://drive.google.com/file/d/1czbMw9ifrNwCQ-25Syqo_M2SZHh9WaF0/view?usp=sharing">w3<a>
+      </td> 
       <!-- Slide -->
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1lidY-cBUvc9KPKfSZJwzm7fLWtyRTqdx/view?usp=sharing">w3<a></td>
       <!-- Notebooks -->
       <td></td>
       <!-- Recommended Links -->
-      <td></td>
+      <td style="text-align: center;"rowspan=1> 
+            <a href="http://karpathy.github.io/2019/04/25/recipe/">[t1]</a> <br>
+            <a href="http://josh-tobin.com/troubleshooting-deep-neural-networks">[t2]</a>  <br>
+            <a href="https://arxiv.org/abs/1609.04747">[t3]</a>  <br>
+      </td>
     </tr>
     <!-- Module 2 -->
     <tr>
