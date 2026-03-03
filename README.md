@@ -120,11 +120,11 @@ This repository is not just a static collection of information but a living docu
       <!-- Bundle -->
       <td></td> 
       <!-- Slide -->
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1hslVOrJnITlASUenXTdu43iY_ozJc4aA/view?usp=sharing">w9</a></td>
       <!-- Notebooks -->
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1cV-fdk5-pq6BMhAZ9i-2NtM28JQAr28p/view?usp=sharing">gnn_demo</a></td>
       <!-- Recommended Links -->
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1-r9vMdmJ1p23Np_dsF6up1leRAkkmpKl/view?usp=sharing">gnn_readings</a> <a href="https://drive.google.com/file/d/10-PRBelOOeftptS1gVlwiX0gK7C9kvwQ/view?usp=sharing">gnn_cheat_sheet</a></td>
     </tr>
     <!-- Module 3 -->
     <tr>
