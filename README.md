@@ -89,9 +89,9 @@ This repository is not just a static collection of information but a living docu
       <td style="text-align: center;"><b>w4</b></td>
       <td style="text-align: center;" rowspan="5">Neural Network Architectures and Common Tasks in Deep Learning</td>
       <td rowspan="2">CNN with Common Tasks: Image Classification, Object Detection, Image Segmentation</td>
-      <td rowspan="2"></td>
-      <td rowspan="2"></td>
-      <td rowspan="2"></td>
+      <td rowspan="2"><a href="https://github.com/denizberkin/inzva-dlsg26-cv/tree/main/week2">cv_weeks</a></td>
+      <td rowspan="2"><a href="https://github.com/denizberkin/inzva-dlsg26-cv/tree/main/week2">are</a></td>
+      <td rowspan="2"><a href="https://github.com/denizberkin/inzva-dlsg26-cv/tree/main/week2">in this repo</a></td>
       <td rowspan="2"></td>
     </tr>
     <tr>
