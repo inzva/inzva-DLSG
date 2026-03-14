@@ -106,9 +106,9 @@ This repository is not just a static collection of information but a living docu
     <tr>
       <td style="text-align: center;"><b>w6</b></td>
       <td rowspan="2">Transformers with Common Tasks: Neural Machine Translation, Image Classification</td>
-      <td rowspan="2"></td>
-      <td rowspan="2"></td>
-      <td rowspan="2"></td>
+      <td rowspan="2"><a href="https://drive.google.com/file/d/1bQ-yvdbxtte2Sgd9Kq4mYunQEQKuuFVk/view?usp=sharing">w6&7</a></td>
+      <td rowspan="2"><a href="https://drive.google.com/file/d/1DlBQBC60mnpVWeYMCTMR7LFH46_nNxz2/view?usp=sharing</">[w6]</a><a href="https://drive.google.com/file/d/1DlBQBC60mnpVWeYMCTMR7LFH46_nNxz2/view?usp=sharing</"> [w7]</a></td>
+      <td rowspan="2"><a href="https://colab.research.google.com/drive/1tPpDOV-f_OsPByIh_gFtRfsPZB4sPygx?usp=sharing">transformers_hw</a></td>
       <td rowspan="2"></td>
     </tr>
     <tr>
@@ -120,7 +120,7 @@ This repository is not just a static collection of information but a living docu
       <!-- Bundle -->
       <td></td> 
       <!-- Slide -->
-      <td><a href="https://drive.google.com/file/d/1hslVOrJnITlASUenXTdu43iY_ozJc4aA/view?usp=sharing">w9</a></td>
+      <td><a href="https://drive.google.com/file/d/1hslVOrJnITlASUenXTdu43iY_ozJc4aA/view?usp=sharing">w8</a></td>
       <!-- Notebooks -->
       <td><a href="https://drive.google.com/file/d/1cV-fdk5-pq6BMhAZ9i-2NtM28JQAr28p/view?usp=sharing">gnn_demo</a></td>
       <!-- Recommended Links -->
