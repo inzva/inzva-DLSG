@@ -107,7 +107,7 @@ This repository is not just a static collection of information but a living docu
       <td style="text-align: center;"><b>w6</b></td>
       <td rowspan="2">Transformers with Common Tasks: Neural Machine Translation, Image Classification</td>
       <td rowspan="2"><a href="https://drive.google.com/file/d/1bQ-yvdbxtte2Sgd9Kq4mYunQEQKuuFVk/view?usp=sharing">w6&7</a></td>
-      <td rowspan="2"><a href="https://drive.google.com/file/d/1DlBQBC60mnpVWeYMCTMR7LFH46_nNxz2/view?usp=sharing</">[w6]</a><a href="https://drive.google.com/file/d/1DlBQBC60mnpVWeYMCTMR7LFH46_nNxz2/view?usp=sharing</"> [w7]</a></td>
+      <td rowspan="2"><a href="https://drive.google.com/file/d/1DlBQBC60mnpVWeYMCTMR7LFH46_nNxz2/view?usp=sharing</">w6</a><a href="https://drive.google.com/file/d/1DlBQBC60mnpVWeYMCTMR7LFH46_nNxz2/view?usp=sharing</"> w7</a></td>
       <td rowspan="2"><a href="https://colab.research.google.com/drive/1tPpDOV-f_OsPByIh_gFtRfsPZB4sPygx?usp=sharing">transformers_hw</a></td>
       <td rowspan="2"></td>
     </tr>
@@ -134,9 +134,9 @@ This repository is not just a static collection of information but a living docu
       <!-- Bundle -->
       <td></td> 
       <!-- Slide -->
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/17if6oNs7ONX7IFnEMWkiKOC-Cfu5wkbG/view?usp=sharing">w9.1</a> <a href="https://drive.google.com/file/d/1EtrZeFtpa2_gWYB9ATi6NCc9BX3jMs3m/view?usp=sharing">w9.2</a></td>
       <!-- Notebooks -->
-      <td></td>
+      <td><a href="https://colab.research.google.com/drive/1GlUNUBrR4eaKsipcgzzknD__x5L_bSSQ?usp=sharing"> cnf_mle </a> <a href="https://colab.research.google.com/drive/1RMva3WVcK0h5rWkvxEVvcXagW8tVfXf-?usp=sharing"> cnf_flowmatching </a></td>
       <!-- Recommended Links -->
       <td></td>
     </tr>
